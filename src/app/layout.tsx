@@ -14,6 +14,18 @@ export const generateMetadata = async (): Promise<Metadata> => {
 		title: t("title"),
 		description: t("description"),
 		metadataBase: new URL(publicUrl),
+		openGraph: {
+			type: "website",
+			url: "https://www.hotsteppamusic.com",
+			title: t("title"),
+			description: t("description"),
+			siteName: "Hot Steppa Music",
+			images: [
+				{
+					url: "https://www.hotsteppamusic.com/icon.png",
+				},
+			],
+		},
 	};
 };
 
