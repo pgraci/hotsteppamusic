@@ -1,7 +1,7 @@
 import { getTranslations } from "@/i18n/server";
 import { Newsletter } from "@/ui/footer/newsletter.client";
 import { YnsLink } from "@/ui/yns-link";
-import type { SVGAttributes } from "react";
+// import type { SVGAttributes } from "react";
 
 const sections = [
 	{
