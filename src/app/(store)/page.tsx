@@ -40,34 +40,10 @@ export default async function Home() {
 							{t("hero.action")}
 						</YnsLink>
 					</div>
-					{/* <Image
-						alt="Cup of Coffee"
-						loading="eager"
-						priority={true}
-						className="rounded"
-						height={450}
-						width={450}
-						src="https://files.stripe.com/links/MDB8YWNjdF8xT3BaeG5GSmNWbVh6bURsfGZsX3Rlc3RfaDVvWXowdU9ZbWlobUIyaHpNc1hCeDM200NBzvUjqP"
-						style={{
-							objectFit: "cover",
-						}}
-						sizes="(max-width: 640px) 70vw, 450px"
-					/> */}
 				</div>
 			</section>
 
 			<ProductList products={products} />
-
-			{/* <section className="w-full py-8">
-				<div className="grid gap-8 lg:grid-cols-2">
-					{[
-						{ categorySlug: "accessories", src: AccessoriesImage },
-						{ categorySlug: "apparel", src: ApparelImage },
-					].map(({ categorySlug, src }) => (
-						<CategoryBox key={categorySlug} categorySlug={categorySlug} src={src} />
-					))}
-				</div>
-			</section> */}
 		</main>
 	);
 }
