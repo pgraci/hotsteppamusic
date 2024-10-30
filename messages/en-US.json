@@ -34,7 +34,7 @@
 	"/.hero.title": "Hot Steppa Lifestyle",
 	"/.hero.description": "Exclusive apparel and artist collaborations.",
 	"/.hero.action": "Shop Now",
-	"/.hero.link": "/category/accessories",
+	"/.hero.link": "/category/apparel",
 	"/search.notFound.title": "No Results Found for \"{query}\"",
 	"/search.notFound.description": "Sorry, we couldn't find any results that match your search query. Please try refining your search.",
 	"/search.metadata.title": "Search: {query} · Hot Steppa",
