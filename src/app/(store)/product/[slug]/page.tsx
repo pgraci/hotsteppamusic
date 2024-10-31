@@ -28,10 +28,9 @@ export const generateMetadata = async (props: {
 	const searchParams = await props.searchParams;
 	const params = await props.params;
 	const variants = await Commerce.productGet({ slug: params.slug });
-	console.log("variants", variants);
 
 	const selectedVariant = searchParams.variant || variants[0]?.metadata.variant;
-	// console.log("selectedVariant", selectedVariant);
+
 	const product = variants.find((variant) => variant.metadata.variant === selectedVariant);
 	if (!product) {
 		return notFound();
