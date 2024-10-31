@@ -23,16 +23,16 @@ const links = [
 export const Nav = async () => {
 	return (
 		<header className="z-50 py-4 sticky top-0 bg-white/90 backdrop-blur-md nav-border-reveal">
-			<div className="mx-auto flex max-w-7xl flex-col items-start gap-2 px-4 sm:flex-row sm:flex-wrap sm:items-center sm:px-6 md:flex-nowrap lg:px-8">
+			<div className="mx-auto flex max-w-7xl flex-col gap-2 px-4 sm:flex-row sm:flex-wrap items-center md:items-start sm:px-6 md:flex-nowrap lg:px-8 md:items-center">
 				<YnsLink href="/">
 					<img src={Logo.src} style={{ marginRight: "1em" }} />
 				</YnsLink>
 
-				<div className="sm:mr-auto">
+				<div className="sm:mr-auto w-full md:w-auto">
 					<NavMenu links={links} />
 				</div>
 
-				<div className="flex items-center justify-start gap-x-6">
+				<div className="flex items-center justify-start gap-x-6 w-full md:w-auto">
 					<SearchNav />
 					<CartSummaryNav />
 				</div>
