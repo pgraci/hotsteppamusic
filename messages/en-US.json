@@ -46,7 +46,7 @@
 	"/product.page.allProducts": "All products",
 	"/product.page.imagesTitle": "Images",
 	"/product.page.descriptionTitle": "Description",
-	"/product.page.variantTitle": "Variant",
+	"/product.page.variantTitle": "Size",
 	"/category.metadata.title": "{categoryName} Category · Hot Steppa",
 	"/category.page.title": "Category: {categoryName}",
 	"/cart.modal.title": "Shopping Cart",

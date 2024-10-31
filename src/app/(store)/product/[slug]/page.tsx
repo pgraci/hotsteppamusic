@@ -28,8 +28,10 @@ export const generateMetadata = async (props: {
 	const searchParams = await props.searchParams;
 	const params = await props.params;
 	const variants = await Commerce.productGet({ slug: params.slug });
+	console.log("variants", variants);
 
 	const selectedVariant = searchParams.variant || variants[0]?.metadata.variant;
+	// console.log("selectedVariant", selectedVariant);
 	const product = variants.find((variant) => variant.metadata.variant === selectedVariant);
 	if (!product) {
 		return notFound();
@@ -58,8 +60,9 @@ export default async function SingleProductPage(props: {
 	const searchParams = await props.searchParams;
 	const params = await props.params;
 	const variants = await Commerce.productGet({ slug: params.slug });
-	const selectedVariant = searchParams.variant || variants[0]?.metadata.variant;
-	const product = variants.find((variant) => variant.metadata.variant === selectedVariant);
+	const variantsSorted = variants.sort((a, b) => a.created - b.created);
+	const selectedVariant = searchParams.variant || variantsSorted[0]?.metadata.variant;
+	const product = variantsSorted.find((variant) => variant.metadata.variant === selectedVariant);
 
 	if (!product) {
 		return notFound();
@@ -150,13 +153,13 @@ export default async function SingleProductPage(props: {
 						</div>
 					</section>
 
-					{variants.length > 1 && (
+					{variantsSorted.length > 1 && (
 						<div className="grid gap-2">
 							<p className="text-base font-medium" id="variant-label">
 								{t("variantTitle")}
 							</p>
 							<ul role="list" className="grid grid-cols-4 gap-2" aria-labelledby="variant-label">
-								{variants.map((variant) => {
+								{variantsSorted.map((variant) => {
 									const isSelected = selectedVariant === variant.metadata.variant;
 									return (
 										variant.metadata.variant && (
