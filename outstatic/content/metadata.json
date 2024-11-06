@@ -1,0 +1,60 @@
+{
+  "commit": "e6c00161b0dc39077d12b7c6f13859e5bdcfe164",
+  "generated": "Wed, 06 Nov 2024 23:26:14 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "6bdaa10872b5cc70113556939b390a9a2d19b685",
+        "hash": "2043928075",
+        "path": "outstatic/content/posts/another-test.md"
+      },
+      "author": {
+        "name": "Phil Graci",
+        "picture": "https://avatars.githubusercontent.com/u/5343956?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/hotsteppa-square-red-E5OT.png",
+      "description": "",
+      "publishedAt": "2024-11-06T22:55:01.057Z",
+      "slug": "another-test",
+      "status": "published",
+      "title": "Another test"
+    },
+    {
+      "__outstatic": {
+        "commit": "68ea202545f1c5b55f99e93762c2806ec9f30d6b",
+        "hash": "163905568",
+        "path": "outstatic/content/pages/sound-system.md"
+      },
+      "author": {
+        "name": "Phil Graci",
+        "picture": "https://avatars.githubusercontent.com/u/5343956?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/phil-hat-beach-square-c1Nj.png",
+      "description": "",
+      "publishedAt": "2024-11-06T22:53:08.828Z",
+      "slug": "sound-system",
+      "status": "published",
+      "title": "Sound System"
+    },
+    {
+      "__outstatic": {
+        "commit": "5c2f7d1c1568f97ab57191aad65ebd47b9e1f535",
+        "hash": "813553699",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Phil Graci",
+        "picture": "https://avatars.githubusercontent.com/u/5343956?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hotsteppa-square-black-E5MT.png",
+      "description": "",
+      "publishedAt": "2024-11-06T22:51:30.267Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    }
+  ]
+}
