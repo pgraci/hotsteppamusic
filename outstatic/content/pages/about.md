@@ -10,16 +10,14 @@ coverImage: '/images/hotsteppa-square-black-E5MT.png'
 publishedAt: '2024-11-06T22:51:30.267Z'
 ---
 
----
+The vision for Hot Steppa began in St. Thomas, Jamaica, in 2014, when Phil Hot Steppa (CEO/DJ/Executive Producer) and Marcus Chong (A&R/Producer) envisioned a project combining a sound system, record label, apparel line, and event production. Their goal was to create a platform that supports selected artists by managing their marketing and producing music and videos. Additionally, they aimed to provide the necessary infrastructure for events, and merch and apparel sales to fund creative endeavors.
 
-https://open.spotify.com/track/0R6pjiyKTCXsY3i84gUkjx?si=5531062d9091413c
+In 2021, Phil and DJ Tetris (DJ/Producer) officially launched the Hot Steppa Sound System, a party sound rooted in Reggae and Dancehall, enriched with Afrobeats, Hip Hop, and Pop. Hot Steppa LLC was established in LA, featuring an iconic 1966 Step Van as a mobile sound system, solidifying their reputation as a premier reggae sound in the city. DJ Sadeki was chosen to represent Hot Steppa Sound in St. Thomas, Jamaica, marking the start of their journey.
 
-Show the video ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+In 2018, Marcus connected Phil with Tuff Like Iron (Artist/Producer/Marketing/Apparel). Tuff became the first featured artist on Hot Steppa Records, releasing two singles, "Roll Out" and “Sometimeish”, in 2023. Her "Unbreakable" album, executive produced by Phil Hot Steppa, is set for release in summer 2024.  Goldy Bad Lion joined the artist roster in 2023, bringing his talents as a singer, producer, and engineer to the mix, with upcoming releases planned.
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Kali Madden (DJ/Interviewer/Communications) joined the team in 2022, bringing her communications and project management skills. In 2023, Yungg Tripp (DJ/Producer) joined as a DJ and in-house producer, enhancing the team's capabilities with his extensive artist and road management experience.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+In 2024 Phil moved to Ocho Rios to establish the business in Jamaica.   With a new head office in St Anns Bay, a production studio in Kingston, and our original Los Angeles home base.  Hot Steppa is now fully active.  The brand has a number of  events and releases on the way.  Contact us to book your next event or festival!
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+ 
